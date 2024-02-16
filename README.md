@@ -1,7 +1,13 @@
 # TirsanGL
 
+# Verilecek Yetkiler
+68, 69, 70, 71, 72
 
-#Yetki Verilecek Personeller
+# Yetki verilecek Sayfa Url
+https://maxiplus.tirsan.com/#/PYO/UserAuthorization
+
+
+# Yetki Verilecek Personeller
 
 İlyas ŞAHİN
 
@@ -57,8 +63,4 @@ YASİN HACI
 
 YUNUS ÇELEBİ
 
-#Verilecek Yetkiler
-68, 69, 70, 71, 72
 
-#Yetki verilecek Sayfa Url
-https://maxiplus.tirsan.com/#/PYO/UserAuthorization
