@@ -1,1 +1,38 @@
 # TirsanGL
+
+
+#Yetki Verilecek Personeller
+
+İlyas ŞAHİN
+İSAK TOKLU
+KADİR EREN
+KAYHAN KURT
+KEMAL TURNA
+Mehmet BAŞAL
+MEHMET BİLÇİN
+MEHMET MELİH KÖKSAL
+MURAT ALTINTAŞ
+MUSTAFA CEYLAN
+MUSTAFA SARI
+NEVZAT AKTAŞ
+OLCAY ÇAK
+ORHAN HAYLA
+OSMAN YILMAZER
+ÖZER KAPISIZ
+RECEP IŞIK
+SELAHATTİN AKAY
+SELÇUK KARA
+ŞENOL CAN
+ŞÜKRÜ AVLAR
+TARKAN FURTA
+Uğur KÖKTÜRK
+Ü.YAŞAR GEZER
+VOLKAN ÇETİNKAYA
+YASİN HACI
+YUNUS ÇELEBİ
+
+#Verilecek Yetkiler
+68, 69, 70, 71, 72
+
+#Yetki verilecek Sayfa Url
+https://maxiplus.tirsan.com/#/PYO/UserAuthorization
