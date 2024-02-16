@@ -4,8 +4,11 @@
 #Yetki Verilecek Personeller
 
 İlyas ŞAHİN
+
 İSAK TOKLU
+
 KADİR EREN
+
 KAYHAN KURT
 KEMAL TURNA
 Mehmet BAŞAL
